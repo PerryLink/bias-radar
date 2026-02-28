@@ -1,0 +1,8 @@
+setup.py
+src/bias_radar/__init__.py
+src/bias_radar.egg-info/PKG-INFO
+src/bias_radar.egg-info/SOURCES.txt
+src/bias_radar.egg-info/dependency_links.txt
+src/bias_radar.egg-info/requires.txt
+src/bias_radar.egg-info/top_level.txt
+tests/test_scanner.py
