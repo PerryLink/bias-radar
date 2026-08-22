@@ -1,4 +1,5 @@
 # 🎯 Bias-Radar
+[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?logo=gitee)](https://gitee.com/perrylink/bias-radar)
 
 > Visualize gender bias in language models with intuitive radar charts
 
